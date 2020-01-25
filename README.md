@@ -1,2 +1,2 @@
 # Breakout Strategy
-Udacity - AI for Trading Nanodegree Program
+*Udacity - AI for Trading Nanodegree Program*
